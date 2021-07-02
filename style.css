@@ -1,0 +1,14 @@
+.commanders,
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card__levels {
+    width: 24px;
+}
+
+.card__levels__wrapper {
+    display: flex;
+    padding: 15px 0;
+}
